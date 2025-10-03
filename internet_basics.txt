@@ -1,0 +1,32 @@
+What is the internet?
+The internet is a global network of interconnected computers that communicate and share information using standardized protocols.
+
+How does the internet work?
+It works by transmitting data through packets across interconnected networks using protocols like TCP/IP, connecting devices worldwide.
+
+What is a domain name?
+A domain name is a human-readable address like google.com that maps to an IP address of a website.
+
+DNS and how it works
+Domain Name System translates domain names into IP addresses so browsers can load websites.
+
+Browsers and how they work
+A browser is software that retrieves web pages from servers using HTTP/HTTPS, interprets the code, and displays it to the user.
+
+What are programming languages?
+Programming languages are languages used to give instructions to a computer.
+
+What is front-end development?
+Front-end development is the creation of the part of a website or web app that users see and interact with.
+
+What is http?
+HTTP Hypertext Transfer Protocol is the protocol used for transferring web pages and data between browsers and servers.
+
+What is a browser?
+A browser is an application e.g., Chrome, Firefox etc. that allows users to access and view websites on the internet.
+
+How do browsers work?
+They send requests to web servers, download the responses, and render them into visual and interactive pages.
+
+How does the web work?
+The web works by clients (browsers) sending requests to servers via HTTP/HTTPS, and servers responding with resources (HTML, CSS, JS, images), which the browser processes and displays.
